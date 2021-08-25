@@ -1,0 +1,45 @@
+body{
+   
+    background-size: cover;
+}
+.first{
+    font-family: 'Satisfy', cursive;
+    font-style: initial;
+    text-align: center;
+}
+.second{
+    font-family: 'Allison', cursive;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    margin-top: 0%;
+    left: 50px;
+}
+.img
+{
+    height: 300px;
+    width: 350px;
+    display: block;
+    margin-left: 300px;
+    border-radius: 100%;
+    
+}
+.img1
+{
+    margin-left: 600px;
+    width: 150px;
+    height: 150px;
+    
+}
+.span{
+    
+    font-family: 'Permanent Marker', cursive;
+}
+.exp
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-size: large;
+    text-align: center;
+    align-items: center;
+}
