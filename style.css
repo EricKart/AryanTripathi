@@ -2,6 +2,9 @@ body{
    
     background-size: cover;
 }
+.height{
+    line-height: 80%;
+}
 .first{
     font-family: 'Satisfy', cursive;
     font-style: initial;
@@ -10,20 +13,23 @@ body{
 .second{
     font-family: 'Allison', cursive;
     font-style: italic;
+    line-height: 80%;
     text-align: center;
     position: relative;
     margin-top: 0%;
     left: 50px;
 }
+
 .img
 {
-    height: 300px;
-    width: 350px;
+    height: 250px;
+    width: 300px;
     display: block;
     margin-left: 300px;
     border-radius: 100%;
     
 }
+
 .img1
 {
     margin-left: 600px;
@@ -43,6 +49,7 @@ body{
     text-align: center;
     align-items: center;
 }
+
 .div1{
     border-radius: 75%;
   
@@ -131,11 +138,24 @@ body{
       background-color: rgb(196, 245, 230);
       padding: 50px 0 20px;
       text-align: center;
-      color: white;
+      color:black;
+      font-size: small;
       margin: 10px 20px 10px;
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
      
   }
+
+  hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+hr.style-four {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
 
   .btn3 {
     background: #de354c;
