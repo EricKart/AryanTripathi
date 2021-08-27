@@ -128,10 +128,13 @@ body{
     text-decoration: none;
   }
   .bottom{
-      background-color: aquamarine;
+      background-color: rgb(138, 185, 170);;
       padding: 50px 0 20px;
       text-align: center;
       color: white;
+      margin: 10px 20px 10px;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+     
   }
 
   .btn3 {
